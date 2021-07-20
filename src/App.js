@@ -1,9 +1,16 @@
-function App() {
-  return (
-    <div className="App">
+import React, { Component } from 'react'
+import PostContainer from './container/PostContainer'
+import "./App.css"
 
-    </div>
-  );
+class App extends Component {
+  render() {
+    return (
+      <div className="App">
+        <PostContainer />
+      </div>
+    )
+  }
 }
 
-export default App;
+export default App
+
