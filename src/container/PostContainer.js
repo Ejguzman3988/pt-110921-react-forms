@@ -8,6 +8,7 @@ class PostContainer extends Component {
                 <h1>110921 BLOG POST App</h1><hr />
                 <div>
                     <h3>Form</h3>
+                    
                 </div><hr />
                 <div>
                     <h3>List</h3>
